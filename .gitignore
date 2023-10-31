@@ -1,0 +1,8 @@
+/node_modules
+/artifacts
+/cache
+/coverage
+
+gas-report.txt
+notes.md
+coverage.json
